@@ -1,0 +1,37 @@
+/* add your CSS here */
+.image{
+	width: 300px;
+	padding: 5px 10px 10px 0;
+	margin-left: 0;
+	margin-right: auto;
+
+}
+
+.b{
+	font-style: italic;
+	
+}
+
+
+ul {
+  list-style-type: none;
+  padding: 0;
+ }
+ 
+ span{
+ 	font-weight: bold;
+ } 
+
+ .aa{
+ 	border: 1px solid #e6e6e6;
+ 	padding: 1em;
+
+ }
+
+ .bb{
+ 	border: 1px solid #e6e6e6;
+ 	padding: 1em;
+ 	box-shadow: 10px 10px #e6e6e6;
+
+ 	
+ }
